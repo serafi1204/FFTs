@@ -15,7 +15,7 @@ Signal length: 32768
         FFT_Radix4_Time: -1.000 s
         FFT_RadixMixed_Time: 0.015 s
 ```
-***
+
 <img src="/output/sin.png" width="49%" height="49%" alt="sin"></img>
 <img src="/output/rectangle.png" width="49%" height="49%" alt="rectangle"></img>
 
