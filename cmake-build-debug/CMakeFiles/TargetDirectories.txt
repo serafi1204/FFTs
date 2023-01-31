@@ -1,0 +1,3 @@
+C:/Users/SERAFI/OneDrive - konkuk.ac.kr/Project/C/FFTs/cmake-build-debug/CMakeFiles/FFTs.dir
+C:/Users/SERAFI/OneDrive - konkuk.ac.kr/Project/C/FFTs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SERAFI/OneDrive - konkuk.ac.kr/Project/C/FFTs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
